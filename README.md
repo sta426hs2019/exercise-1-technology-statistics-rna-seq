@@ -1,5 +1,5 @@
-## RNA-Seq
+## RNA-Seq (Sevi)
 
-- Direct and indirect RNA seq
-- Library preparation (cDNA/indirect)
-- Transcriptome assembly
+- Direct and indirect RNA seq (Julian)
+- Library preparation (cDNA/indirect) (Carlo)
+- Transcriptome assembly (Tae)
