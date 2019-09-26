@@ -21,6 +21,13 @@ Bisulphite treatment of DNA converts cytosine, but not methylated cytosine, to u
 
 ## Statistics
 
+Complete linkeage hierarchical clustering, Pearson correlation [^1]
+
+Regression-based methods, e.g. methylKit, BiSeq, 
+Smoothing-based methods, e.g. BSmooth 
+Hidden Markov models: HMM-DM and HMM-Fisher [^2]
+
 ## References
 
 [^1]: Lister et al, Human DNA methylomes at base resolution show widespread epigenomic differences, Nature, 2009.
+[^2]: Yu et al, Comparing five statistical methods of differential methylation identification using bisulfite sequencing data, Stat Appl Genet Mol Biol., 2016
