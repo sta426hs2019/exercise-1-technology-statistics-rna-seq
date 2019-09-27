@@ -19,6 +19,8 @@ Bisulphite treatment of DNA converts cytosine, but not methylated cytosine, to u
 
 ## Application
 
+A comprehensive epigenome analysis can reveal mechanisms of epigenomic changes in disease and aging. It can also reveal aspects of gene-environment interaction as the epigenome is highly influenced by the environment.
+
 ## Statistics
 
 Complete linkeage hierarchical clustering, Pearson correlation [^1]
