@@ -14,7 +14,7 @@ The first is de novo assembly which does not require a reference genome. One exa
 
 ### References
 
-1. Ozsolak et al. Direct RNA sequencing, Nature, 2009.
+1. [Ozsolak et al. Direct RNA sequencing, Nature, 2009.](https://www.nature.com/articles/nature08390)
 2. [Mortazavi et al. Mapping and quantifying mammalian transcriptomes by RNA-Seq, Nature Methods, 2008.](https://www.ncbi.nlm.nih.gov/pubmed/18516045)
 3. [Grabherr et al. Trinity: reconstructing a full-length transcriptome without a genome from RNA-Seq data, 2011.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571712/)
 4. [Introduction to RNA-Seq for Researchers, YouTube, December 2017.](https://www.youtube.com/watch?v=7BLS_YY9HeM)
